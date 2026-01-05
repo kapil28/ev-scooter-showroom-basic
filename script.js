@@ -294,7 +294,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     window.addEventListener('scroll', debouncedScroll);
 
-    console.log('🚀 VoltRide website loaded successfully!');
+    console.log('🚀 Hexa website loaded successfully!');
 });
 
 // Prevent FOUC (Flash of Unstyled Content)
